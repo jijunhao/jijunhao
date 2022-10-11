@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=jijunhao&show_icons=true&&hide_title=true&count_private=true" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=jijunhao&layout=compact" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=jijunhao&layout=compact&exclude_repo=jijunhao.github.io" />
     </td>
   </tr>
 </table>
