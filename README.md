@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 </p>
 
 
-# Blog posts<a title="My Blog Site" target="_blank" href="https://blog.17lai.site/">
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
