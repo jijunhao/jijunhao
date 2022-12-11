@@ -12,9 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # 我的博客 RSS 链接
           feed_list: "https://jijunhao.github.io/atom.xml"
           # 获取最新 10 篇文章
-          max_post_count: 10
+          max_post_count: 5
