@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [统计机器学习](http://jijunhao.github.io/2022/12/09/tong-ji-ji-qi-xue-xi/)
 - [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/win10-ubuntu-shuang-xi-tong-an-zhuang/)
@@ -78,3 +78,8 @@ Here are some ideas to get you started:
 - [Hexo入门](http://jijunhao.github.io/2022/09/25/hexo-ru-men/)
 - [Hexo 博客搭建和使用](http://jijunhao.github.io/2022/09/24/hexo/)
 <!-- BLOG-POST-LIST:END -->
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=jijunhao&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
