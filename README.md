@@ -68,3 +68,8 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijunhao&show_icons=true&locale=en" />
 </p>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
