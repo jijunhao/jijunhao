@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/03/11/hexo-matery-zhu-ti-ping-lun-cha-jian/)
-- [统计机器学习](http://jijunhao.github.io/2022/12/09/tong-ji-ji-qi-xue-xi/)
-- [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/win10-ubuntu-shuang-xi-tong-an-zhuang/)
-- [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/25/hexo-matery-zhu-ti-shi-yong-he-mei-hua/)
-- [Hexo入门](http://jijunhao.github.io/2022/09/25/hexo-ru-men/)
+- [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
+- [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/03/11/article20230311/)
+- [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
+- [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
+- [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
 <!-- BLOG-POST-LIST:END -->
