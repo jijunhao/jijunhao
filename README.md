@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
-- [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/03/11/article20230311/)
-- [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
-- [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
-- [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
+- [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
+- [Linux常用解压与压缩命令](http://jijunhao.github.io/2023/02/07/article20230207/)
+- [pip介绍及常用命令](http://jijunhao.github.io/2023/02/06/article20230206/)
+- [Miniconda的安装和使用](http://jijunhao.github.io/2023/02/05/article20230205/)
 <!-- BLOG-POST-LIST:END -->
