@@ -83,3 +83,8 @@ Here are some ideas to get you started:
 - [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
 - [Hexo入门](http://jijunhao.github.io/2022/09/25/article20220925/)
 <!-- BLOG-POST-LIST:END -->
+
+
+##### GitHub status
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jijunhao&theme=github)
