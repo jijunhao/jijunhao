@@ -85,6 +85,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-##### GitHub status
+## GitHub status
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=jijunhao&theme=github)
