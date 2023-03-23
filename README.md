@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 - [ChatGPT 工具整理](http://jijunhao.github.io/2023/03/22/article20230322/)
 - [Hexo博客搭建进阶版](http://jijunhao.github.io/2023/03/18/article20230318/)
 <!-- BLOG-POST-LIST:END -->
-
+- [更多文章...](https://jijunhao.github.io/) 
 
 ## GitHub status
 
