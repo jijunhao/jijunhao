@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git操作指南](http://jijunhao.github.io/2023/03/23/article20230323/)
+- [ChatGPT 工具整理](http://jijunhao.github.io/2023/03/22/article20230322/)
 - [Hexo博客搭建进阶版](http://jijunhao.github.io/2023/03/18/article20230318/)
 - [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
 - [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
@@ -80,8 +82,6 @@ Here are some ideas to get you started:
 - [Miniconda的安装和使用](http://jijunhao.github.io/2023/02/05/article20230205/)
 - [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/01/01/article20230101/)
 - [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
-- [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
-- [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
 <!-- BLOG-POST-LIST:END -->
 
 
