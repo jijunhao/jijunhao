@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://raw.githubusercontent.com/jijunhao/jijunhao/snake/github-snake.svg">
+
 ## 🏆 Github Trophy
 
 <table>
