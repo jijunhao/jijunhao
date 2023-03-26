@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 
 ## GitHub status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=jijunhao&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jijunhao&theme=github-compact)
