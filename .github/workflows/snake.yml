@@ -12,7 +12,7 @@ jobs:
     
     steps:
       - name: generate github-snake.svg
-        uses: Platane/snk@v2.2.1
+        uses: Platane/snk@master
         with:
           # 你的 GitHub 的名称
           github_user_name: jijunhao
