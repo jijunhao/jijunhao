@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
+- [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
 - [显卡驱动+cuda+cudnn+深度学习框架](http://jijunhao.github.io/2023/03/25/article20230325/)
 - [Word论文排版](http://jijunhao.github.io/2023/03/24/article20230324/)
 - [Git操作指南](http://jijunhao.github.io/2023/03/23/article20230323/)
