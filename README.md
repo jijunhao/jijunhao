@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [计算机视觉任务1](http://jijunhao.github.io/2023/04/12/article20230412/)
 - [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
 - [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
 - [显卡驱动+cuda+cudnn+深度学习框架](http://jijunhao.github.io/2023/03/25/article20230325/)
