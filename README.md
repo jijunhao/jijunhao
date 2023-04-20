@@ -74,7 +74,10 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [计算机视觉任务1](http://jijunhao.github.io/2023/04/12/article20230412/)
+- [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
+- [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
+- [计算机视觉任务](http://jijunhao.github.io/2023/04/12/article20230412/)
+- [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
 - [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
 - [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
 - [显卡驱动+cuda+cudnn+深度学习框架](http://jijunhao.github.io/2023/03/25/article20230325/)
@@ -91,9 +94,6 @@ Here are some ideas to get you started:
 - [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
 - [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
 - [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
-- [Hexo入门](http://jijunhao.github.io/2022/09/25/article20220925/)
-- [Hexo 博客搭建和使用](http://jijunhao.github.io/2022/09/24/article20220924/)
-- [Hello World](http://jijunhao.github.io/2022/09/24/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
