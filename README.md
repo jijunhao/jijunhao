@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Differential Privacy 论文阅读](http://jijunhao.github.io/2023/04/21/article20230421/)
 - [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
 - [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
 - [计算机视觉任务](http://jijunhao.github.io/2023/04/12/article20230412/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/01/01/article20230101/)
 - [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
 - [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
-- [Hexo-Matery主题使用和美化](http://jijunhao.github.io/2022/09/26/article20220926/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
