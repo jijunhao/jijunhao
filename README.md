@@ -74,8 +74,12 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Generated Content&lpar;AIGC&rpar;](http://jijunhao.github.io/2023/04/24/article20230424/)
+- [Transformer and MLP 论文阅读](http://jijunhao.github.io/2023/04/23/article20230423/)
+- [Attention 论文阅读](http://jijunhao.github.io/2023/04/22/article20230422/)
 - [Differential Privacy 论文阅读](http://jijunhao.github.io/2023/04/21/article20230421/)
 - [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
+- [GAN 论文阅读](http://jijunhao.github.io/2023/04/19/article20230419/)
 - [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
 - [计算机视觉任务](http://jijunhao.github.io/2023/04/12/article20230412/)
 - [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
@@ -90,10 +94,6 @@ Here are some ideas to get you started:
 - [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
 - [Linux常用解压与压缩命令](http://jijunhao.github.io/2023/02/07/article20230207/)
 - [pip介绍及常用命令](http://jijunhao.github.io/2023/02/06/article20230206/)
-- [Miniconda的安装和使用](http://jijunhao.github.io/2023/02/05/article20230205/)
-- [Hexo-Matery主题评论插件](http://jijunhao.github.io/2023/01/01/article20230101/)
-- [统计机器学习](http://jijunhao.github.io/2022/12/09/article20221209/)
-- [win10+ubuntu双系统安装](http://jijunhao.github.io/2022/10/05/article20221005/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
