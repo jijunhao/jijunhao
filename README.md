@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 - [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
 - [GAN 论文阅读](http://jijunhao.github.io/2023/04/19/article20230419/)
 - [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
-- [计算机视觉任务](http://jijunhao.github.io/2023/04/12/article20230412/)
+- [计算机视觉任务&lpar;二&rpar;](http://jijunhao.github.io/2023/04/13/article20230413/)
+- [计算机视觉任务&lpar;一&rpar;](http://jijunhao.github.io/2023/04/12/article20230412/)
 - [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
 - [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
 - [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
 - [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
 - [Linux常用解压与压缩命令](http://jijunhao.github.io/2023/02/07/article20230207/)
-- [pip介绍及常用命令](http://jijunhao.github.io/2023/02/06/article20230206/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
