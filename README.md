@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diffusion公式推导和理解](http://jijunhao.github.io/2023/04/28/article20230428/)
 - [AI Generated Content&lpar;AIGC&rpar;](http://jijunhao.github.io/2023/04/24/article20230424/)
 - [Transformer and MLP 论文阅读](http://jijunhao.github.io/2023/04/23/article20230423/)
 - [Attention 论文阅读](http://jijunhao.github.io/2023/04/22/article20230422/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [Hexo博客搭建进阶版](http://jijunhao.github.io/2023/03/18/article20230318/)
 - [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
 - [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
-- [Linux常用解压与压缩命令](http://jijunhao.github.io/2023/02/07/article20230207/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
