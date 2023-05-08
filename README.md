@@ -4,7 +4,7 @@
 
 - 🤔 I graduated from **Xiangtan University** with a bachelor's degree
 
-- 🌱 I’m currently learning **CV、deeplearning**
+- 🌱 I’m currently learning **CV、DeepLearning**
 
 - 💬 Ask me about **Math、Linux、Latex、Python**
 
