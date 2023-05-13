@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [人脸识别任务](http://jijunhao.github.io/2023/04/30/article20230430/)
 - [Diffusion公式推导和理解](http://jijunhao.github.io/2023/04/28/article20230428/)
 - [AI Generated Content&lpar;AIGC&rpar;](http://jijunhao.github.io/2023/04/24/article20230424/)
 - [Transformer and MLP 论文阅读](http://jijunhao.github.io/2023/04/23/article20230423/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [ChatGPT 工具整理](http://jijunhao.github.io/2023/03/22/article20230322/)
 - [Hexo博客搭建进阶版](http://jijunhao.github.io/2023/03/18/article20230318/)
 - [QQ机器人——接入ChatGPT](http://jijunhao.github.io/2023/03/13/article20230313/)
-- [搜索引擎高级指令](http://jijunhao.github.io/2023/02/08/article20230208/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
