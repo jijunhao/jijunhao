@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [3D-Aware Adversarial Makeup Generation for Facial Privacy Protection](http://jijunhao.github.io/2023/07/03/article20230703/)
+- [Conditional Identity Anonymization Generative Adversarial Networks](http://jijunhao.github.io/2023/05/01/article20230501/)
 - [人脸识别任务](http://jijunhao.github.io/2023/04/30/article20230430/)
 - [Diffusion公式推导和理解](http://jijunhao.github.io/2023/04/28/article20230428/)
 - [AI Generated Content&lpar;AIGC&rpar;](http://jijunhao.github.io/2023/04/24/article20230424/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [Word论文排版](http://jijunhao.github.io/2023/03/24/article20230324/)
 - [Git操作指南](http://jijunhao.github.io/2023/03/23/article20230323/)
 - [ChatGPT 工具整理](http://jijunhao.github.io/2023/03/22/article20230322/)
-- [Hexo博客搭建进阶版](http://jijunhao.github.io/2023/03/18/article20230318/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
