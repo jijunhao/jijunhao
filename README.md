@@ -74,7 +74,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [灰色预测](http://jijunhao.github.io/2023/09/01/article20230901/)
 - [3D-Aware Adversarial Makeup Generation for Facial Privacy Protection](http://jijunhao.github.io/2023/07/03/article20230703/)
+- [A Survey on Differential Privacy for Unstructured Data Content](http://jijunhao.github.io/2023/06/01/article20230601/)
 - [Conditional Identity Anonymization Generative Adversarial Networks](http://jijunhao.github.io/2023/05/01/article20230501/)
 - [人脸识别任务](http://jijunhao.github.io/2023/04/30/article20230430/)
 - [Diffusion公式推导和理解](http://jijunhao.github.io/2023/04/28/article20230428/)
@@ -92,8 +94,6 @@ Here are some ideas to get you started:
 - [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
 - [显卡驱动+cuda+cudnn+深度学习框架](http://jijunhao.github.io/2023/03/25/article20230325/)
 - [Word论文排版](http://jijunhao.github.io/2023/03/24/article20230324/)
-- [Git操作指南](http://jijunhao.github.io/2023/03/23/article20230323/)
-- [ChatGPT 工具整理](http://jijunhao.github.io/2023/03/22/article20230322/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
