@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCI写作-Introduction](http://jijunhao.github.io/2023/11/01/article20231101/)
 - [时间序列预测](http://jijunhao.github.io/2023/09/02/article20230902/)
 - [灰色预测](http://jijunhao.github.io/2023/09/01/article20230901/)
 - [3D-Aware Adversarial Makeup Generation for Facial Privacy Protection](http://jijunhao.github.io/2023/07/03/article20230703/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
 - [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
 - [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
-- [显卡驱动+cuda+cudnn+深度学习框架](http://jijunhao.github.io/2023/03/25/article20230325/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
