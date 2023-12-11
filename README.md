@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCI写作-Experiments](http://jijunhao.github.io/2023/11/03/article20231103/)
+- [SCI写作-Method](http://jijunhao.github.io/2023/11/02/article20231102/)
 - [SCI写作-Introduction](http://jijunhao.github.io/2023/11/01/article20231101/)
 - [时间序列预测](http://jijunhao.github.io/2023/09/02/article20230902/)
 - [灰色预测](http://jijunhao.github.io/2023/09/01/article20230901/)
@@ -92,8 +94,6 @@ Here are some ideas to get you started:
 - [计算机视觉任务&lpar;二&rpar;](http://jijunhao.github.io/2023/04/13/article20230413/)
 - [计算机视觉任务&lpar;一&rpar;](http://jijunhao.github.io/2023/04/12/article20230412/)
 - [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
-- [PyTorch常用操作](http://jijunhao.github.io/2023/04/09/article20230409/)
-- [归一化方法](http://jijunhao.github.io/2023/04/08/article20230408/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
