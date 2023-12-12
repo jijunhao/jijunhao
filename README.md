@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EfficientViT Memory Efficient Vision Transformer with Cascaded Group Attention](http://jijunhao.github.io/2023/11/06/article20231106/)
+- [SCI写作-Abstract](http://jijunhao.github.io/2023/11/05/article20231105/)
+- [SCI写作-Conclusion](http://jijunhao.github.io/2023/11/04/article20231104/)
 - [SCI写作-Experiments](http://jijunhao.github.io/2023/11/03/article20231103/)
 - [SCI写作-Method](http://jijunhao.github.io/2023/11/02/article20231102/)
 - [SCI写作-Introduction](http://jijunhao.github.io/2023/11/01/article20231101/)
@@ -91,9 +94,6 @@ Here are some ideas to get you started:
 - [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
 - [GAN 论文阅读](http://jijunhao.github.io/2023/04/19/article20230419/)
 - [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
-- [计算机视觉任务&lpar;二&rpar;](http://jijunhao.github.io/2023/04/13/article20230413/)
-- [计算机视觉任务&lpar;一&rpar;](http://jijunhao.github.io/2023/04/12/article20230412/)
-- [Zotero-文献管理工具](http://jijunhao.github.io/2023/04/10/article20230410/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
