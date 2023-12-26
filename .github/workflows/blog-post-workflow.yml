@@ -15,6 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # 我的博客 RSS 链接
-          feed_list: "https://jijunhao.github.io/atom.xml"
+          feed_list: "https://jijunhao.online/atom.xml"
           # 获取最新 10 篇文章
           max_post_count: 20
