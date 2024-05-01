@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [机器学习论文中公式规范](http://jijunhao.github.io/2024/04/01/article20240401/)
 - [EfficientViT Memory Efficient Vision Transformer with Cascaded Group Attention](http://jijunhao.github.io/2023/11/06/article20231106/)
 - [SCI写作-Abstract](http://jijunhao.github.io/2023/11/05/article20231105/)
 - [SCI写作-Conclusion](http://jijunhao.github.io/2023/11/04/article20231104/)
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - [Differential Privacy 论文阅读](http://jijunhao.github.io/2023/04/21/article20230421/)
 - [Diffusion Model 论文阅读](http://jijunhao.github.io/2023/04/20/article20230420/)
 - [GAN 论文阅读](http://jijunhao.github.io/2023/04/19/article20230419/)
-- [概率估计方法](http://jijunhao.github.io/2023/04/18/article20230418/)
 <!-- BLOG-POST-LIST:END -->
 - [更多文章...](https://jijunhao.github.io/) 
 
