@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Math、Linux、Latex、Python**
 
-- 📫 How to reach me **218657803@qq.com**
-
 <!--
 **jijunhao/jijunhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
