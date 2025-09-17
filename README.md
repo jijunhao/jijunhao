@@ -2,15 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jijunhao&label=Profile%20views&color=0e75b6&style=flat" alt="jijunhao" /> </p>
 
-- 🤔 I received the B.S. degree from **Xiangtan University** , in 2022
-
-- 🔭 I received the M.S. degree from **Nanjing University of Aeronautics and
- Astronautics** , in 2025
- 
-- 🌱 I’m currently learning **CV, NLP, and Agent**
-
-- 💬 Ask me about **Math, Linux, and Python**
-
 <!--
 **jijunhao/jijunhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
