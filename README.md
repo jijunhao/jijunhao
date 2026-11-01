@@ -4,18 +4,6 @@
 
 <img align="center" src="https://raw.githubusercontent.com/jijunhao/jijunhao/snake/github-snake.svg">
 
-## 🏆 Github Trophy
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=jijunhao&count_private=true&show_icons=true&hide_title=true" />
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=jijunhao&exclude_repo=jijunhao.github.io&layout=compact" />
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="center">
   <a href="https://cn.ubuntu.com/">
