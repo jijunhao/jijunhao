@@ -4,32 +4,30 @@
 
 <img align="center" src="https://raw.githubusercontent.com/jijunhao/jijunhao/snake/github-snake.svg">
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">AI &amp; Technology Stack</h2>
+
+<p align="center"><strong>Interests · LLMs &amp; Multimodal AI</strong></p>
 <p align="center">
-  <a href="https://cn.ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </a>
-  <a href="https://www.anaconda.com/">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  </a>
-  <a href="https://sourceforge.net/projects/texstudio/">
-    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge" />
+  <img alt="Multimodal AI" src="https://img.shields.io/badge/Multimodal%20AI-8B5CF6?style=for-the-badge" />
+  <img alt="Document AI" src="https://img.shields.io/badge/Document%20AI-0F766E?style=for-the-badge" />
+  <img alt="OCR" src="https://img.shields.io/badge/OCR-0284C7?style=for-the-badge" />
+</p>
+
+<p align="center"><strong>Core Development</strong></p>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+</p>
+
+<p align="center"><strong>Engineering &amp; Research Tools</strong></p>
+<p align="center">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" />
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
 </p>
 
 <p align = "center">
