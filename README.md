@@ -14,22 +14,6 @@
   <img alt="OCR" src="https://img.shields.io/badge/OCR-0284C7?style=for-the-badge" />
 </p>
 
-<p align="center"><strong>Core Development</strong></p>
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
-</p>
-
-<p align="center"><strong>Engineering &amp; Research Tools</strong></p>
-<p align="center">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" />
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
-</p>
-
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijunhao&show_icons=true&locale=en" />
 </p>
