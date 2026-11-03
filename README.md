@@ -14,10 +14,10 @@
   <img alt="OCR" src="https://img.shields.io/badge/OCR-0284C7?style=for-the-badge" />
 </p>
 
+<h2 align="center">GitHub status</h2>
+
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijunhao&show_icons=true&locale=en" />
 </p>
-
-## GitHub status
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=jijunhao&theme=github-compact)
